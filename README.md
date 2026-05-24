@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>📄 <b>Resume</b></td>
-    <td><a href="https://drive.google.com/file/d/1fBgeim3YER3Bpz8bJTifz2Hl5_PBLpAF/view?usp=drive_link">Download Resume</a></td>
+ <td><a href="https://drive.google.com/file/d/1fBgeim3YER3Bpz8bJTifz2Hl5_PBLpAF/view?usp=drive_link">Download Resume</a></td>
   </tr>
   <tr>
     <td>🌐 <b>Socials</b></td>
@@ -62,13 +62,8 @@
 ```javascript
 const fardin = {
   pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Tailwind CSS"],
-  tools: ["React", "Redux", "Next", "Node.js", "Styled-Components", "Jest", "Docker", "Kubernetes"],
+  code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
+  tools: ["React", "Redux", "Next", "Node.js", "Styled-Components"],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-    coorganizer: "East-West-University",
-    speaker: "English",
-    mentor: "Web Developer"
-  },
   challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
 }
