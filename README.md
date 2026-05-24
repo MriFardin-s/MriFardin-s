@@ -18,15 +18,15 @@
 <hr>
 
 <h2>🛠 Skills</h2>
-<p align="center">
+<p>
   <b>Programming Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=js,typescript,html,css" alt="Languages" /><br><br>
+  <img src="https://skillicons.dev/icons?i=js,html,css" alt="Languages" /><br><br>
   
   <b>Frontend & Backend</b><br>
   <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb" alt="Tech" /><br><br>
   
   <b>Tools & Others</b><br>
-  <img src="https://skillicons.dev/icons?i=next,jest,docker,kubernetes" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=next" alt="Tools" />
 </p>
 
 <hr>
@@ -35,23 +35,23 @@
 <table>
   <tr>
     <td>📧 <b>Email</b></td>
-    <td><a href="mailto:fkfardin900@gmail.com">fkfardin900@gmail.com</a></td>
+    <td><a href="mailto:fkfardin900@gmail.com" style="text-decoration:none;">fkfardin900@gmail.com</a></td>
   </tr>
   <tr>
     <td>💼 <b>Portfolio</b></td>
-    <td><a href="https://ri-fardin-portfolio-new.vercel.app/">View my Portfolio</a></td>
+    <td><a href="https://ri-fardin-portfolio-new.vercel.app/" style="text-decoration:none;">View my Portfolio</a></td>
   </tr>
   <tr>
     <td>📄 <b>Resume</b></td>
- <td><a href="https://drive.google.com/file/d/1fBgeim3YER3Bpz8bJTifz2Hl5_PBLpAF/view?usp=drive_link">Download Resume</a></td>
+    <td><a href="https://drive.google.com/file/d/1fBgeim3YER3Bpz8bJTifz2Hl5_PBLpAF/view?usp=drive_link" style="text-decoration:none;">Download Resume</a></td>
   </tr>
   <tr>
     <td>🌐 <b>Socials</b></td>
     <td>
-      <a href="https://github.com/mrifardin-s">GitHub</a> | 
-      <a href="https://www.linkedin.com/in/fardin-dev">LinkedIn</a> | 
-      <a href="https://x.com/rifardin23">Twitter/X</a> | 
-      <a href="https://www.instagram.com/ri_fardin_">Instagram</a>
+      <a href="https://github.com/mrifardin-s" style="text-decoration:none;">GitHub</a> | 
+      <a href="https://www.linkedin.com/in/fardin-dev" style="text-decoration:none;">LinkedIn</a> | 
+      <a href="https://x.com/rifardin23" style="text-decoration:none;">Twitter/X</a> | 
+      <a href="https://www.instagram.com/ri_fardin_" style="text-decoration:none;">Instagram</a>
     </td>
   </tr>
 </table>
@@ -63,7 +63,5 @@
 const fardin = {
   pronouns: "he/him",
   code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
-  tools: ["React", "Redux", "Next", "Node.js", "Styled-Components"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
+  tools: ["React", "Redux", "Next", "Node.js"],
 }
