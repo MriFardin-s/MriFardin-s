@@ -1,11 +1,14 @@
-<img width="1662" height="624" alt="Fardin Banner" src="https://github.com/user-attachments/assets/bf3cd524-ffb6-4616-8904-56496d4f0fb7" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3399FF&width=435&lines=Nice+to+meet+you!;I+am+Fardin.;A+Full+Stack+Web+Developer.;I+love+building+cool+things!" alt="Typing Animation" />
+  <img src="https://github.com/user-attachments/assets/48663e31-0700-4452-994f-aea0882626f6" width="100%" alt="Fardin Banner" />
 </p>
 
-<h1>👋 Hi, I'm Fardin</h1>
-<h3>Full Stack Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&weight=700&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Nice+to+meet+you!;I+am+Fardin.;A+MERN+Stack+Developer.;I+love+building+cool+things!" alt="Typing Animation" />
+</p>
+
+<br>
+
+<h3>MERN Stack Developer</h3>
 
 <hr>
 
@@ -17,16 +20,13 @@
 <h2>🛠 Skills</h2>
 <p align="center">
   <b>Programming Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=js" alt="Languages" /><br><br>
+  <img src="https://skillicons.dev/icons?i=js,typescript,html,css" alt="Languages" /><br><br>
   
-  <b>Frontend Development</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend" /><br><br>
+  <b>Frontend & Backend</b><br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb" alt="Tech" /><br><br>
   
-  <b>Backend Development</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" /><br><br>
-  
-  <b>Database</b><br>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="Database" />
+  <b>Tools & Others</b><br>
+  <img src="https://skillicons.dev/icons?i=next,jest,docker,kubernetes" alt="Tools" />
 </p>
 
 <hr>
