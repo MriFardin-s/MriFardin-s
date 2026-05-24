@@ -59,7 +59,7 @@
 <hr>
 
 <h2>💻 About Me</h2>
-```javascript
+
 const fardin = {
   pronouns: "he/him",
   code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
